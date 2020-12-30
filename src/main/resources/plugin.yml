@@ -1,0 +1,16 @@
+name: Wiz-Fireworks
+version: 1.0
+description: Fireworks for the New Years
+author: Wiz_Techno
+
+main: com.wiz.newyears.Main
+depend:
+  - TitleAPI
+api-version: 1.16
+
+commands:
+  fireworks:
+    aliases:
+      - holiday
+      - newyears
+    description: Start a fireworks show!
