@@ -12,4 +12,4 @@ Things to be aware of:
 - This plugin requires TitleAPI (included in zip)
 - This plugin has only been tested on the latest version
 - This plugin sets the time to night ONLY for the individual player (the actual server's time is not set to night)
-- All firework damage is disabled while this plugin is active
+- All firework damage is disabled while this plugin is active (however Firework Collision Damage still works)
